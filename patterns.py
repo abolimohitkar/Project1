@@ -591,7 +591,7 @@ for i in range(1,n):
         print(i, '--->   the number is perfect')
         
     else: 
-        print('number is not perfect')
+        print('Number is not perfect at all')
         
 
 
